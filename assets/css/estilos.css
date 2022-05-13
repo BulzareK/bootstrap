@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+
+body {
+  font-family: "Roboto";
+}
+
+.nav-color {
+  background-color: #28a745;
+}
+
+.card-title {
+  font-size: 20pt;
+  font-weight: 700;
+}
+
+.card-text {
+  font-size: 20pt;
+}
+
+.card-location-muted {
+  font-size: 16pt;
+}
+
+.card-img-top {
+  height: 400px;
+  width: 500px;
+  object-fit: cover;
+}
+
+.text-muted {
+  font-size: 16pt;
+}
+
+.formulario {
+  background-color: #28a745;
+}
